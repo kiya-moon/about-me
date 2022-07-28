@@ -12,9 +12,6 @@
 </br>
 
 > ### TimeLine
-### 2021
-- 11월 개발자 공부 시작(html, css, python)
-
 ### 2022
 - 1월 자바 입문
 - 3월 임베디드 소프트웨어 융합 풀스택 개발자 양성과정A 시작
@@ -24,6 +21,10 @@
 - 5월 CS 발표(<OSI 7Layers>)
 - 6월 토이 프로젝트(<주차 정산 프로그램> | 기술스택 : JAVA8, DBMS(Oracle))
 - 7월 토이 프로젝트(<여행플래너> | 기술스택 : JAVA8, DBMS(Oracle), Html, Css, JQuery, JavaScript, JSP(MVC2), OpenAPI) 
+
+### 2021
+- 11월 개발자 공부 시작(html, css, python)
+
 
 </br>
 
