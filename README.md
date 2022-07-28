@@ -18,12 +18,12 @@
 ### 2022
 - 1월 자바 입문
 - 3월 임베디드 소프트웨어 융합 풀스택 개발자 양성과정A 시작
-- 4월 토이 프로젝트(<방 탈출 게임> | 기술스택 : JAVA8)
+- 4월 토이 프로젝트(<방 탈출 게임> | 기술스택 : JAVA8)<br>
   상세보기 https://turtlemoon.tistory.com/65?category=1091485
 - 5월 정보처리기사 필기 합격
 - 5월 CS 발표(<OSI 7Layers>)
 - 6월 토이 프로젝트(<주차 정산 프로그램> | 기술스택 : JAVA8, DBMS(Oracle))
-- 7월 프로젝트(<여행플래너> | 기술스택 : JAVA8, DBMS(Oracle), Html, Css, JQuery, JavaScript, JSP(MVC2), OpenAPI) 
+- 7월 토이 프로젝트(<여행플래너> | 기술스택 : JAVA8, DBMS(Oracle), Html, Css, JQuery, JavaScript, JSP(MVC2), OpenAPI) 
 
 </br>
 
@@ -69,7 +69,7 @@
 </br></br>
 
 ## ✨ Projects
-### 1. [여행 플래너](깃주소)
+### 1. 여행플래너
 >코로나가 풀리며 지자체는 물론 정부 차원에서도 국내 여행을 다방면으로 지원하고 있는 흐름에 발맞춰 만든 국내여행 플래너</br></br>
 >공공데이터 OpenApi를 통해 관광정보를 가져오는 것을 핵심으로 하는 팀 프로젝트</br></br>
 >진행 기간: 2022.5.17 ~ 2022.7.1</br></br>
