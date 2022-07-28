@@ -77,4 +77,4 @@
 >진행 기간: 2022.5.17 ~ 2022.7.1</br></br>
 >기술 스택</br>
 >JAVA8, DBMS(Oracle), Html, Css, JQuery, JavaScript, JSP(MVC2), OpenAPI</br></br>
->[프로젝트 상세 설명](깃주소) 참고
+>[프로젝트 상세 설명](https://github.com/kiya-moon/JSP-project.git) 참고
