@@ -19,9 +19,11 @@
 - 4월 토이 프로젝트(<방 탈출 게임> | 기술스택 : JAVA8)<br>
   상세보기 https://turtlemoon.tistory.com/65?category=1091485
 - 5월 정보처리기사 필기 합격
-- 5월 CS 발표(<OSI 7Layers>)
+- 5월 CS 발표(<OSI 7Layers>)<br>
+  상세보기 https://turtlemoon.tistory.com/118
 - 6월 토이 프로젝트(<주차 정산 프로그램> | 기술스택 : JAVA8, DBMS(Oracle))
-- 7월 토이 프로젝트(<여행플래너> | 기술스택 : JAVA8, DBMS(Oracle), Html, Css, JQuery, JavaScript, JSP(MVC2), OpenAPI) 
+- 7월 토이 프로젝트(<여행플래너> | 기술스택 : JAVA8, DBMS(Oracle), HTML5, CSS3, JQuery, JavaScript, JSP(MVC2), OpenAPI) 
+- 8월 토이 프로젝트 진행중(<경매사이트> | 기술스택 : JAVA11, JPA, HTML5, CSS3, JQuery, JavaScript, ThymeLeaf, SPRING BOOT)
 
 ### 2021
 - 11월 개발자 공부 시작(html, css, python)
@@ -76,5 +78,5 @@
 >공공데이터 OpenApi를 통해 관광정보를 가져오는 것을 핵심으로 하는 팀 프로젝트</br></br>
 >진행 기간: 2022.5.17 ~ 2022.7.1</br></br>
 >기술 스택</br>
->JAVA8, DBMS(Oracle), Html, Css, JQuery, JavaScript, JSP(MVC2), OpenAPI</br></br>
+>JAVA8, DBMS(Oracle), HTML5, CSS3, JQuery, JavaScript, JSP(MVC2), OpenAPI</br></br>
 >[프로젝트 상세 설명](https://github.com/kiya-moon/JSP-project.git) 참고
