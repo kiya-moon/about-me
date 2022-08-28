@@ -13,21 +13,19 @@
 
 > ### TimeLine
 ### 2022
-- 1월 자바 입문
-- 3월 임베디드 소프트웨어 융합 풀스택 개발자 양성과정A 시작
-- 3월 스터디 시작(수업 복습 및 백준 문제 풀이, 정보 교류 목적)
-- 4월 토이 프로젝트(<방 탈출 게임> | 기술스택 : JAVA8)<br>
-  상세보기 https://turtlemoon.tistory.com/65?category=1091485
-- 5월 정보처리기사 필기 합격
+- 8월 토이 프로젝트 진행중(<경매사이트> | 기술스택 : JAVA11, JPA, HTML5, CSS3, JQuery, JavaScript, ThymeLeaf, SPRING BOOT)
+- 7월 토이 프로젝트(<여행플래너> | 기술스택 : JAVA8, DBMS(Oracle), HTML5, CSS3, JQuery, JavaScript, JSP(MVC2), OpenAPI) 
+- 6월 토이 프로젝트(<주차 정산 프로그램> | 기술스택 : JAVA8, DBMS(Oracle))
 - 5월 CS 발표(<OSI 7Layers>)<br>
   상세보기 https://turtlemoon.tistory.com/118
-- 6월 토이 프로젝트(<주차 정산 프로그램> | 기술스택 : JAVA8, DBMS(Oracle))
-- 7월 토이 프로젝트(<여행플래너> | 기술스택 : JAVA8, DBMS(Oracle), HTML5, CSS3, JQuery, JavaScript, JSP(MVC2), OpenAPI) 
-- 8월 토이 프로젝트 진행중(<경매사이트> | 기술스택 : JAVA11, JPA, HTML5, CSS3, JQuery, JavaScript, ThymeLeaf, SPRING BOOT)
+- 5월 정보처리기사 필기 합격
+- 4월 토이 프로젝트(<방 탈출 게임> | 기술스택 : JAVA8)<br>
+- 3월 스터디 시작(수업 복습 및 백준 문제 풀이, 정보 교류 목적)
+- 3월 임베디드 소프트웨어 융합 풀스택 개발자 양성과정A 시작
+- 1월 자바 입문
 
 ### 2021
 - 11월 개발자 공부 시작(html, css, python)
-
 
 </br>
 
@@ -39,6 +37,7 @@
 </br></br>
 
 ## 🐤Tech Stack
+<br>
 <div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -64,6 +63,8 @@
   <br>
 </div>
 
+<br><br>
+
 ## 📭 Contact
 - 핸드폰 : 010-3055-9380 
 - 이메일 : kiyamoon@daum.net
@@ -73,10 +74,33 @@
 </br></br>
 
 ## ✨ Projects
-### 1. 여행플래너
+### 2022년 7월 <여행플래너>
 >코로나가 풀리며 지자체는 물론 정부 차원에서도 국내 여행을 다방면으로 지원하고 있는 흐름에 발맞춰 만든 국내여행 플래너</br></br>
 >공공데이터 OpenApi를 통해 관광정보를 가져오는 것을 핵심으로 하는 팀 프로젝트</br></br>
 >진행 기간: 2022.5.17 ~ 2022.7.1</br></br>
 >기술 스택</br>
->JAVA8, DBMS(Oracle), HTML5, CSS3, JQuery, JavaScript, JSP(MVC2), OpenAPI</br></br>
+>JAVA8, DBMS(Oracle), HTML5, CSS3, JQuery, JavaScript, JSP(MVC2), MYBatis, OpenAPI</br></br>
 >[프로젝트 상세 설명](https://github.com/kiya-moon/JSP-project.git) 참고
+
+</br>
+
+### 2022년 6월 <주차 정산 프로그램>
+> 월정액/시간제 별로 입출차 시간을 계산하여 정산해주는 프로그램</br></br>
+> 이클립스와 DBMS 연결 및 활용 연습을 목적으로 한 팀 프로젝트</br></br>
+> 진행 기간: 2022.5.12 ~ 2022.6.5</br></br>
+> 기술 스택</br>
+> JAVA8, DBMS(Oracle)</br></br>
+> [프로젝트 상세 설명](https://github.com/kiya-moon/Second-Java-Project.git) 참고
+
+</br>
+
+### 2022년 4월 <방탈출 게임>
+> 자유롭게 가장 하고 싶은 주제로 만든 자바 개인 프로젝트</br></br>
+> 진행 기간: 2022.3.19 ~ 2022.4.3</br></br>
+> 기술 스택</br>
+> JAVA8</br></br>
+> [프로젝트 상세 설명](https://turtlemoon.tistory.com/65?category=1091485t) 참고
+
+</br></br>
+
+# Bye👋
