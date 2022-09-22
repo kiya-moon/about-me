@@ -26,7 +26,7 @@
 - 1월 자바 입문
 
 ### 2021
-- 11월 개발자 공부 시작(html, css, python)
+- 10월 개발자 공부 시작(html, css, python)
 
 </br>
 
