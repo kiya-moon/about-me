@@ -12,7 +12,7 @@
 😺 강형욱 훈련사가 강아지들의 안 좋은 습관을 고치듯, 제가 갖고 있는 리소스, 없는 리소스까지 동원해서 에러를 고쳐나가고 있습니다.<br>
 😺 꾸준히 공부해서 코드에 대한 이해력을 높여 잘 조련해보겠습니다!<br>
 
-</br>
+</br></br>
 
 > ### TimeLine
 ### 2022
@@ -40,31 +40,46 @@
 </br></br>
 
 ## 🐤Tech Stack
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><br>
+Java8 및 Java11 사용<br>
+간단한 토이 프로젝트 2개, 웹사이트 3개 개발(개발중)<br>
+Java 라이브러리, 인터페이스, 클래스와 메소드를 적절하게 이용 가능<br>
+컬렉션 프레임워크 이해 및 사용 가능, 싱글톤 객체 생성 및 사용 가능<br>
+
 <br>
-<div align=center>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
-  <br>
 
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <br>
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><br>
+Oracle DB를 IDE에 연결하고 사용 가능<br>
+JDBC, MyBatis, JPA 프로젝트 경험 있음<br>
+ERD 설계 및 CRUD 등 sql문 작성 가능<br>  
 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br>
-</div>
+<br>
+
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <br>
+MySql 기반 MyBatis 연동 프로젝트 한 번 있음<br>
+ERD 설계 및 CRUD 등 sql문 작성 가능<br>
+
+<br>
+
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><br>
+스프링 프레임워크 기반으로 메이븐 프로젝트를 생성하고 사용 가능<br>
+
+<br>
+
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br>
+스프링부트 프레임워크 기반으로 그래들 프로젝트를 생성하고 사용 가능<br>
+
+<br>
+
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
+HTML5, CSS3, JS를 이용 간단한 뷰단 작성 가능<br>
+부트스트랩 및 템플릿 기반으로 홈페이지 만들기 가능<br>
+
+<br>
+
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"><br>
+2번의 프로젝트에서 깃헙으로 형상관리<br>
+소스트리 및 IDE 내 깃 프로그램, Git Bash 이용<br>
 
 <br><br>
 
