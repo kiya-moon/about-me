@@ -18,17 +18,18 @@
 😺 세나코(세상에 나쁜 코드는 없다!)<br>
 😺 코드에 에러가 있을 수는 있지만 영원한 에러는 없다고 생각합니다.<br>
 😺 꾸준히 공부해서 코드에 대한 이해력을 높이고자 합니다!<br>
-😺 퍼즐, 방탈출 같이 문제 해결하는 것을 좋아합니다.< 
+😺 퍼즐, 방탈출 같이 문제 해결하는 것을 좋아합니다. 
 
 </br></br>
 
 > ### TimeLine
 ### 2022
-- 8월 토이 프로젝트 진행중(<경매사이트> | 기술스택 : JAVA11, JPA, HTML5, CSS3, JQuery, JavaScript, ThymeLeaf, SPRING BOOT)
-- 7월 토이 프로젝트(<여행플래너> | 기술스택 : JAVA8, DBMS(Oracle), HTML5, CSS3, JQuery, JavaScript, JSP(MVC2), OpenAPI) 
+- 9월 토이 프로젝트(<런드리고 웹사이트> | 기술스택 : JAVA11, SPRING MVC, MyBatis(MySQL), HTML5, CSS3, JavaScript)
+- 8월 스프링 공부 시작(남궁성 선생님 인터넷 강의)
+- 8월 토이 프로젝트 진행중(<경매사이트> | 기술스택 : JAVA11, JPA(Oracle), HTML5, CSS3, JQuery, JavaScript, ThymeLeaf, SPRING BOOT)
+- 7월 토이 프로젝트(<여행플래너> | 기술스택 : JAVA8, MyBatis(Oracle), HTML5, CSS3, JQuery, JavaScript, JSP(MVC2), OpenAPI) 
 - 6월 토이 프로젝트(<주차 정산 프로그램> | 기술스택 : JAVA8, DBMS(Oracle))
-- 5월 CS 발표(<OSI 7Layers>)<br>
-  상세보기 https://turtlemoon.tistory.com/118
+- 5월 CS 발표(<OSI 7Layers> | 상세보기 https://turtlemoon.tistory.com/118 )
 - 5월 정보처리기사 필기 합격
 - 4월 토이 프로젝트(<방 탈출 게임> | 기술스택 : JAVA8)<br>
 - 3월 스터디 시작(수업 복습 및 백준 문제 풀이, 정보 교류 목적)
@@ -92,13 +93,31 @@ HTML5, CSS3, JS를 이용 간단한 뷰단 작성 가능<br>
 <br><br>
 
 ## ✨ Projects
+### 2022년 9월 <런드리고 웹사이트>
+>Spring MVC, MyBatis를 기반으로 제작한 세탁 서비스 웹사이트<br><br>
+>어플 사용이 어려울 때, 웹사이트로도 이용가능 하도록하여 사용자의 불편함을 해소하는 프로젝트<br><br>
+>진행기간 : FrontEnd | 2022-08-07 ~ 2022-08-21 / BackEnd | 2022-09-18 ~ 2022-10-04<br><br>
+>기술 스택<br>
+>JAVA11, SPRING MVC, MyBatis(MySQL), HTML5, CSS3, JavaScript<br><br>
+>[프로젝트 상세 설명](https://github.com/kiya-moon/Laundrygo_project.git) 참고<br><br>
+>느낀 점<br>
+> - 생각보다 스무스하게 개발이 진행됐고, 비슷한 코딩 실력을 가진 사람들끼리 모였을 때의 시너지를 느꼈습니다.
+> - 어디에서든 내 몫을 해낼 수 있는 개발자가 되기 위한 공부의 중요성을 다시 한 번 느꼈습니다.
+
+<br>
+
 ### 2022년 7월 <여행플래너>
 >코로나가 풀리며 지자체는 물론 정부 차원에서도 국내 여행을 다방면으로 지원하고 있는 흐름에 발맞춰 만든 국내여행 플래너</br></br>
 >공공데이터 OpenApi를 통해 관광정보를 가져오는 것을 핵심으로 하는 팀 프로젝트</br></br>
 >진행 기간: 2022.5.17 ~ 2022.7.1</br></br>
 >기술 스택</br>
 >JAVA8, DBMS(Oracle), HTML5, CSS3, JQuery, JavaScript, JSP(MVC2), MYBatis, OpenAPI</br></br>
->[프로젝트 상세 설명](https://github.com/kiya-moon/JSP-project.git) 참고
+>[프로젝트 상세 설명](https://github.com/kiya-moon/JSP-project.git) 참고<br><br>
+> 느낀 점<br>
+> - 공공 api 데이터 가져오기, 이메일 발송 등 새로운 기술을 가득 담아 만든 웹사이트였습니다.<br>
+> - A 부터 Z 까지 조원들끼리 스스로 헤쳐나가느라 어려웠지만, 그만큼 뿌듯함이 큰 과정이었습니다.<br> 
+> - 시간 관리의 필요성을 깨달았습니다. 기술 구현에 많은 시간이 빼앗겼고 촉박하게 프로젝트를 완성해야 했습니다. 이 과정을 통해 기간 내에 프로젝트를 완성할 수 있도록 시간 관리가 필요함을 깨달았습니다.<br>
+> - 깃을 통해 형상관리를 하려고 했지만 이해가 부족했습니다. 아쉬움이 많이 남아 다음 프로젝트에선 꼭 제대로 사용하기 위해 공부하고 있습니다.<br>
 
 </br>
 
@@ -108,7 +127,10 @@ HTML5, CSS3, JS를 이용 간단한 뷰단 작성 가능<br>
 > 진행 기간: 2022.5.12 ~ 2022.6.5</br></br>
 > 기술 스택</br>
 > JAVA8, DBMS(Oracle)</br></br>
-> [프로젝트 상세 설명](https://github.com/kiya-moon/Second-Java-Project.git) 참고
+> [프로젝트 상세 설명](https://github.com/kiya-moon/Second-Java-Project.git) 참고<br><br>
+> 느낀 점<br>
+> - 수업 시간에 하지 않은 부분을 따로 공부하고 그를 활용하기 위해 자발적으로 시작한 첫 팀프로젝트 입니다.<br>
+> - 각자 맡은 파트는 다르지만 팀원들과 호흡을 맞추고, 모여서 서로서로 코드를 봐주며 팀 프로젝트의 장점을 깨달았습니다.<br>
 
 </br>
 
@@ -117,7 +139,9 @@ HTML5, CSS3, JS를 이용 간단한 뷰단 작성 가능<br>
 > 진행 기간: 2022.3.19 ~ 2022.4.6</br></br>
 > 기술 스택</br>
 > JAVA8</br></br>
-> [프로젝트 상세 설명](https://turtlemoon.tistory.com/65?category=1091485t) 참고
+> [프로젝트 상세 설명](https://turtlemoon.tistory.com/65?category=1091485t) 참고<br><br>
+> 느낀 점<br>
+> - 자유롭게 가장 하고 싶은 주제로 진행한 첫번째 프로젝트로, 제가 만든 프로그램을 누군가 즐겁게 쓰는 기쁨을 처음으로 느꼈습니다.
 
 </br></br>
 
