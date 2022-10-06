@@ -5,12 +5,20 @@
 
 </br></br>
 
+## 📭 Contact
+- 핸드폰 : 010-3055-9380 
+- 이메일 : kiyamoon@daum.net
+- 블로그 : https://turtlemoon.tistory.com
+- 깃헙   : https://github.com/kiya-moon
+
+</br></br>
+
 ## 💕It's me
 > ### Introduce
 😺 세나코(세상에 나쁜 코드는 없다!)<br>
-😺 코드에 에러가 있더라도 안 풀리는 에러는 없다고 생각합니다.<br>
-😺 강형욱 훈련사가 강아지들의 안 좋은 습관을 고치듯, 제가 갖고 있는 리소스, 없는 리소스까지 동원해서 에러를 고쳐나가고 있습니다.<br>
-😺 꾸준히 공부해서 코드에 대한 이해력을 높여 잘 조련해보겠습니다!<br>
+😺 코드에 에러가 있을 수는 있지만 영원한 에러는 없다고 생각합니다.<br>
+😺 꾸준히 공부해서 코드에 대한 이해력을 높이고자 합니다!<br>
+😺 퍼즐, 방탈출 같이 문제 해결하는 것을 좋아합니다.< 
 
 </br></br>
 
@@ -82,14 +90,6 @@ HTML5, CSS3, JS를 이용 간단한 뷰단 작성 가능<br>
 소스트리 및 IDE 내 깃 프로그램, Git Bash 이용<br>
 
 <br><br>
-
-## 📭 Contact
-- 핸드폰 : 010-3055-9380 
-- 이메일 : kiyamoon@daum.net
-- 블로그 : https://turtlemoon.tistory.com
-- 깃헙   : https://github.com/kiya-moon
-
-</br></br>
 
 ## ✨ Projects
 ### 2022년 7월 <여행플래너>
