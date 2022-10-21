@@ -26,11 +26,11 @@ MyBatis에 익숙하고 JDBC를 사용할 수 있습니다. JPA는 공부 중 �
 
 > ### TimeLine
 ### 2022
-- 9월 토이 프로젝트(<런드리고 웹사이트> | 기술스택 : JAVA11, SPRING MVC, MyBatis(MySQL), HTML5, CSS3, JavaScript)
+- 9월 토이 프로젝트(<런드리고 웹사이트> | 기술스택 : JAVA11, SPRING MVC, MyBatis, MySQL, HTML5, CSS3, JavaScript)
 - 8월 스프링 공부 시작(남궁성 선생님 인터넷 강의)
-- 8월 토이 프로젝트 진행중(<경매사이트> | 기술스택 : JAVA11, JPA(Oracle), HTML5, CSS3, JQuery, JavaScript, ThymeLeaf, SPRING BOOT)
-- 7월 토이 프로젝트(<여행플래너> | 기술스택 : JAVA8, MyBatis(Oracle), HTML5, CSS3, JQuery, JavaScript, JSP(MVC2), OpenAPI) 
-- 6월 토이 프로젝트(<주차 정산 프로그램> | 기술스택 : JAVA8, DBMS(Oracle))
+- 8월 토이 프로젝트 진행중(<경매사이트> | 기술스택 : JAVA11, JPA, Oracle, HTML5, CSS3, JQuery, JavaScript, ThymeLeaf, SPRING BOOT)
+- 7월 토이 프로젝트(<여행플래너> | 기술스택 : JAVA8, MyBatis, Oracle, HTML5, CSS3, JQuery, JavaScript, JSP(MVC2), OpenAPI) 
+- 6월 토이 프로젝트(<주차 정산 프로그램> | 기술스택 : JAVA8, JDBC, Oracle)
 - 5월 CS 발표(<OSI 7Layers> | 상세보기 https://turtlemoon.tistory.com/118 )
 - 5월 정보처리기사 필기 합격
 - 4월 토이 프로젝트(<방 탈출 게임> | 기술스택 : JAVA8)<br>
@@ -51,61 +51,43 @@ MyBatis에 익숙하고 JDBC를 사용할 수 있습니다. JPA는 공부 중 �
 </br></br>
 
 ## 🐤Tech Stack
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><br>
-Java8 및 Java11 사용<br>
-간단한 토이 프로젝트 2개, 웹사이트 3개 개발(개발중)<br>
-Java 라이브러리, 인터페이스, 클래스와 메소드를 적절하게 이용 가능<br>
-컬렉션 프레임워크 이해 및 사용 가능, 싱글톤 객체 생성 및 사용 가능<br>
 
-<br>
+### F/E
+HTML5, CSS3, JS, JQuery
 
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><br>
-Oracle DB를 IDE에 연결하고 사용 가능<br>
-JDBC, MyBatis, JPA 프로젝트 경험 있음<br>
-ERD 설계 및 CRUD 등 sql문 작성 가능<br>  
+### B/E
+Java, JSP, Spring, SpringBoot
 
-<br>
+### 서버
+Apache, Tomcat
 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <br>
-MySql 기반 MyBatis 연동 프로젝트 한 번 있음<br>
-ERD 설계 및 CRUD 등 sql문 작성 가능<br>
+### DB
+Oracle
 
-<br>
-
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><br>
-스프링 프레임워크 기반으로 메이븐 프로젝트를 생성하고 사용 가능<br>
-
-<br>
-
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br>
-스프링부트 프레임워크 기반으로 그래들 프로젝트를 생성하고 사용 가능<br>
-
-<br>
-
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
-HTML5, CSS3, JS를 이용 간단한 뷰단 작성 가능<br>
-부트스트랩 및 템플릿 기반으로 홈페이지 만들기 가능<br>
-
-<br>
-
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"><br>
-2번의 프로젝트에서 깃헙으로 형상관리<br>
-소스트리 및 IDE 내 깃 프로그램, Git Bash 이용<br>
+### 형상관리
+Git
 
 <br><br>
 
 ## ✨ Projects
 ### 2022년 9월 <런드리고 웹사이트>
->Spring MVC, MyBatis를 기반으로 제작한 세탁 서비스 웹사이트<br><br>
->어플 사용이 어려울 때, 웹사이트로도 이용가능 하도록하여 사용자의 불편함을 해소하는 프로젝트<br><br>
+>'우리집 모바일 세탁소, 런드리고' 어플의 웹사이트 버전<br>
+>런드리고 프로젝트는 기존의 어플을 제가 실제로 사용할 때, 웹사이트로는 수거신청을 할 수 없음에 가끔 불편함을 느껴 제작하게 되었습니다.<br>
+>에러 없는 꼼꼼한 백엔드를 구축함과 동시에 고객의 유입을 위한 프론트단 역시 중요하다고 여겨 안팎으로 완벽한 웹사이트를 만들기 위해 노력했습니다.<br><br>
 >진행기간 : FrontEnd | 2022-08-07 ~ 2022-08-21 / BackEnd | 2022-09-18 ~ 2022-10-04<br><br>
 >기술 스택<br>
->JAVA11, SPRING MVC, MyBatis(MySQL), HTML5, CSS3, JavaScript<br><br>
+>JAVA11, SPRING MVC, MyBatis, MySQL, HTML5, CSS3, JavaScript<br><br>
 >[프로젝트 상세 설명](https://github.com/kiya-moon/Laundrygo_project.git) 참고<br><br>
+
 >느낀 점<br>
-> - 생각보다 스무스하게 개발이 진행됐고, 비슷한 코딩 실력을 가진 사람들끼리 모였을 때의 시너지를 느꼈습니다.
-> - 어디에서든 내 몫을 해낼 수 있는 개발자가 되기 위한 공부의 중요성을 다시 한 번 느꼈습니다.
-> - RestApi를 처음 활용해보았는데, 이론상으로는 이해했으나 막상 설계하려니 어렵게 느껴졌고, 많이 설계해 볼 필요성을 느꼈습니다.
+> - 스프링 공부 + 프로젝트 진행을 목적으로 만난 팀이었기 때문에 다들 열정적이었고, 그 어느 프로젝트보다 스무스하게 진행되었습니다.<br>
+> - 모두가 개인의 역할과 팀 목표를 이해하고, 자신의 자리에서 노력하는 것이 협업에서 중요함을 다시 한 번 깨달았습니다.<br><br>
+
+>트러블 이슈<br>
+> - 첫 번째. ‘문의하기에서 등록한 이미지 가져오기’<br>
+이미지를 여러 장 저장하고 가져오는 로직은 처음이었고, 한 장일 때처럼 짰더니 DB에 값이 있음에도 Null이 들어왔습니다. 때문에 if문을 돌려 List에 담아왔고, 뷰단에서 foreach문을 사용하여 뿌려주도록 하였습니다. 하지만 이중 foreach문을 사용하면서 로직에 문제가 생겨 파싱 에러가 났고, 로직을 점검해 시도하여 성공할 수 있었습니다.<br>
+> - 두 번째. ‘rest api 설계’<br>
+rest api의 이론을 배우고 프로젝트에서 실습하려고 했습니다. 이론은 머릿속에 있었지만 실제로 설계하는 일은 어려웠습니다. 명사만을 사용해야 했는데 하다보니 몇 부분이 동사로 되어있었고, 모달창을 많이 사용하여 rest api가 필요없는 곳도 많아 혼란스러웠습니다. 최종 결과물을 놓고 보니, patch나 put을 표현하지 않고 대부분 post를 사용해 수정이 이루어져 있었습니다. 따라서 rest api 설계를 다시 공부한 뒤, 프로젝트를 보완하려고 합니다.
 
 <br>
 
