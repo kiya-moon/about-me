@@ -62,7 +62,7 @@ Java, JSP, Spring, SpringBoot
 Apache, Tomcat
 
 ### DB
-Oracle
+Oracle, MyBatis
 
 ### 형상관리
 Git
