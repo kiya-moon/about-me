@@ -102,8 +102,8 @@ JAVA11, SPRING MVC, MyBatis, MySQL, HTML5, CSS3, JavaScript<br><br>
 [프로젝트 상세 설명](https://github.com/kiya-moon/Laundrygo_project.git) 참고<br><br>
 
 ### 느낀 점
- - 스프링 공부 + 프로젝트 진행을 목적으로 만난 팀이었기 때문에 다들 열정적이었고, 그 어느 프로젝트보다 스무스하게 진행되었습니다.<br>
- - 모두가 개인의 역할과 팀 목표를 이해하고, 자신의 자리에서 노력하는 것이 협업에서 중요함을 다시 한 번 깨달았습니다.<br><br>
+ - 프로젝트를 하며 Spring Framework에서 프론트단과 백단의 흐름에 익숙해지게 되었습니다.<br>
+ - 협업을 ‘어떻게’ 잘 할 수 있을 지에 대해 생각해 보고, AWS 배포나 REST API 같은 새로운 기술에 도전해보는 시간이었습니다. <br><br>
 
 ### 트러블 이슈
  - 첫 번째. ‘문의하기에서 등록한 이미지 가져오기’<br>
