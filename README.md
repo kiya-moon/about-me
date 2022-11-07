@@ -71,19 +71,19 @@ MyBatis에 익숙하고 JDBC를 사용할 수 있습니다. JPA는 공부 중 �
 ## 🐤Tech Stack
 
 ### F/E
-HTML5, CSS3, JS, JQuery, JSP
+HTML5, CSS3, JS, JQuery
 
 ### B/E
-Java, JDBC, MyBatis, JSTL, Spring MVC, Thymeleaf
+Java, JDBC, MyBatis, JSP, Spring MVC, JSTL, Thymeleaf
 
 ### 서버
 Apache, Tomcat
 
 ### DB
-Oracle, MyBatis
+Oracle, Mysql
 
 ### Framework
-Spring Framework(maven), Spring Boot(Gradle)
+Spring Framework, Spring Boot
 
 ### 형상관리
 Git
