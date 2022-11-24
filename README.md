@@ -95,7 +95,7 @@ Git
 진행기간 : FrontEnd | 2022-08-07 ~ 2022-08-21 / BackEnd | 2022-09-18 ~ 2022-10-04<br><br>
 기술 스택<br>
 JAVA11, SPRING MVC, MyBatis, MySQL, HTML5, CSS3, JavaScript<br><br>
-[프로젝트 상세 설명](https://github.com/kiya-moon/Laundrygo_project.git) 참고<br><br>
+👉[프로젝트 상세 설명](https://github.com/kiya-moon/Laundrygo_project.git) 참고<br><br>
 
 ### 느낀 점
  - 프로젝트를 하며 Spring Framework에서 프론트단과 백단의 흐름에 익숙해지게 되었습니다.<br>
@@ -105,7 +105,7 @@ JAVA11, SPRING MVC, MyBatis, MySQL, HTML5, CSS3, JavaScript<br><br>
  - 첫 번째. ‘문의하기에서 등록한 이미지 가져오기’<br>
 이미지를 여러 장 저장하고 가져오는 로직은 처음이었고, 한 장일 때처럼 짰더니 DB에 값이 있음에도 Null이 들어왔습니다. 때문에 if문을 돌려 List에 담아왔고, 뷰단에서 foreach문을 사용하여 뿌려주도록 하였습니다. 하지만 이중 foreach문을 사용하면서 로직에 문제가 생겨 파싱 에러가 났고, 로직을 점검해 시도하여 성공할 수 있었습니다.<br>
  - 두 번째. ‘rest api 설계’<br>
-rest api의 이론을 배우고 프로젝트에서 실습하려고 했습니다. 이론은 머릿속에 있었지만 실제로 설계하는 일은 어려웠습니다. 명사만을 사용해야 했는데 하다보니 몇 부분이 동사로 되어있었고, 모달창을 많이 사용하여 rest api가 필요없는 곳도 많아 혼란스러웠습니다. 최종 결과물을 놓고 보니, patch나 put을 표현하지 않고 대부분 post를 사용해 수정이 이루어져 있었습니다. 따라서 rest api 설계를 다시 공부한 뒤, 프로젝트를 보완하려고 합니다.
+restful api의 이론을 배우고 프로젝트에서 실습하려고 했습니다. 이론은 머릿속에 있었지만 실제로 설계하는 일은 어려웠습니다. 명사만을 사용해야 했는데 하다보니 몇 부분이 동사로 되어있었고, 모달창을 많이 사용하여 api가 필요없는 곳도 많아 혼란스러웠습니다. 최종 결과물을 놓고 보니, patch나 put을 표현하지 않고 대부분 post를 사용해 수정이 이루어져 있었습니다. 따라서 restful api 설계를 다시 공부한 뒤, 프로젝트를 보완하려고 합니다.
 
 <br>
 <hr>
@@ -118,7 +118,7 @@ rest api의 이론을 배우고 프로젝트에서 실습하려고 했습니다.
 진행 기간: 2022.5.17 ~ 2022.7.1</br></br>
 기술 스택</br>
 JAVA8, DBMS(Oracle), HTML5, CSS3, JQuery, JavaScript, JSP(MVC2), MYBatis, OpenAPI</br></br>
-[프로젝트 상세 설명](https://github.com/kiya-moon/JSP-project.git) 참고<br><br>
+👉[프로젝트 상세 설명](https://github.com/kiya-moon/JSP-project.git) 참고<br><br>
  ### 느낀 점
  - 공공 api 데이터 가져오기, 이메일 발송 등 새로운 기술을 가득 담아 만든 웹사이트였습니다.<br>
  - 시간 관리의 필요성을 깨달았습니다. 기술 구현에 많은 시간이 빼앗겼고 촉박하게 프로젝트를 완성해야 했습니다. 이 과정을 통해 기간 내에 프로젝트를 완성할 수 있도록 시간 관리가 필요함을 깨달았습니다.<br>
@@ -135,7 +135,7 @@ JAVA8, DBMS(Oracle), HTML5, CSS3, JQuery, JavaScript, JSP(MVC2), MYBatis, OpenAP
 진행 기간: 2022.5.12 ~ 2022.6.5</br></br>
 기술 스택</br>
 JAVA8, DBMS(Oracle)</br></br>
-[프로젝트 상세 설명](https://github.com/kiya-moon/Second-Java-Project.git) 참고<br><br>
+👉[프로젝트 상세 설명](https://github.com/kiya-moon/Second-Java-Project.git) 참고<br><br>
 ### 느낀 점
 - 수업 시간에 하지 않은 부분을 따로 공부하고 그를 활용하기 위해 자발적으로 시작한 첫 팀프로젝트 입니다.<br>
 - 각자 맡은 파트는 다르지만 팀원들과 호흡을 맞추고, 모여서 서로서로 코드를 봐주며 팀 프로젝트의 장점을 깨달았습니다.<br>
@@ -150,7 +150,7 @@ JAVA8, DBMS(Oracle)</br></br>
 진행 기간: 2022.3.19 ~ 2022.4.6<br><br>
 기술 스택</br>
 JAVA8</br></br>
-[프로젝트 상세 설명](https://turtlemoon.tistory.com/65?category=1091485t) 참고<br><br>
+👉[프로젝트 상세 설명](https://turtlemoon.tistory.com/65?category=1091485t) 참고<br><br>
 ### 느낀 점
 - 자유롭게 가장 하고 싶은 주제로 진행한 첫번째 프로젝트로, 제가 만든 프로그램을 누군가 즐겁게 쓰는 기쁨을 처음으로 느꼈습니다.
 
