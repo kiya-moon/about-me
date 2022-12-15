@@ -94,7 +94,7 @@ Git
 '우리집 모바일 세탁소, 런드리고' 어플의 웹사이트 버전<br>
 런드리고 프로젝트는 기존의 어플을 제가 실제로 사용할 때, 웹사이트로는 수거신청을 할 수 없음에 가끔 불편함을 느껴 제작하게 되었습니다.<br>
 에러 없는 꼼꼼한 백엔드를 구축함과 동시에 고객의 유입을 위한 프론트단 역시 중요하다고 여겨 안팎으로 완벽한 웹사이트를 만들기 위해 노력했습니다.<br><br>
-진행기간 : FrontEnd | 2022-08-07 ~ 2022-08-21 / BackEnd | 2022-09-18 ~ 2022-10-04<br><br>
+진행기간 : FrontEnd | 2022-08-07 ~ 2022-08-21 / BackEnd | 2022-09-18 ~ 2022-10-12<br><br>
 기술 스택<br>
 JAVA11, SPRING MVC, MyBatis, MySQL, HTML5, CSS3, JavaScript<br><br>
 👉[프로젝트 상세 설명](https://github.com/kiya-moon/Laundrygo_project.git) 참고<br><br>
