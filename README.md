@@ -29,39 +29,33 @@ JAVA를 주언어로 개발을 하고 있습니다.<br><br>
 </br></br>
 
 > ### TimeLine
-### 2022
-- 12월 원티드 프리온보딩 [Android]Kotlin 강의<br>
-- 11월 인프런 기출로 대비하는 CS 전공면접<br>
-- 10월 토이 프로젝트<br>
-```
-<런드리고 웹사이트> | 기술스택 : JAVA11, SPRING MVC, MyBatis, MySQL, HTML5, CSS3, JavaScript
-```
-- 8월 스프링 공부 시작(남궁성 선생님 인터넷 강의)
-- 7월 토이 프로젝트<br>
-```
-<여행플래너> | 기술스택 : JAVA8, MyBatis, Oracle, HTML5, CSS3, JQuery, JavaScript, JSP(MVC2), OpenAPI
-```
-- 6월 토이 프로젝트<br>
-```
-<주차 정산 프로그램> | 기술스택 : JAVA8, JDBC, Oracle
-```
-- 5월 CS 발표<br>
-```
-<OSI 7Layers> | 상세보기 https://turtlemoon.tistory.com/118 
-```
-- 5월 정보처리기사 필기 합격
-- 4월 토이 프로젝트<br>
-```
-<방 탈출 게임> | 기술스택 : JAVA8)
-```
-- 3월 스터디 시작(수업 복습 및 백준 문제 풀이, 정보 교류 목적)
-- 3월 소프트웨어 융합 풀스택 개발자 양성과정A 시작
-- 1월 자바 입문
+<details>
+ <summary> <h3>2022</h3> </summary>
+ - 12월 원티드 프리온보딩 [Android]Kotlin 강의<br>
+ - 11월 인프런 기출로 대비하는 CS 전공면접<br>
+ - 10월 토이 프로젝트<br>
+ <런드리고 웹사이트> | 기술스택 : JAVA11, SPRING MVC, MyBatis, MySQL, HTML5, CSS3, JavaScript<br><br>
+  - 8월 스프링 공부 시작(남궁성 선생님 인터넷 강의)<br>
+  - 7월 토이 프로젝트<br>
+  <여행플래너> | 기술스택 : JAVA8, MyBatis, Oracle, HTML5, CSS3, JQuery, JavaScript, JSP(MVC2), OpenAPI<br><br>
+   - 6월 토이 프로젝트<br>
+   <주차 정산 프로그램> | 기술스택 : JAVA8, JDBC, Oracle<br><br>
+    - 5월 CS 발표<br>
+    <OSI 7Layers> | 상세보기 https://turtlemoon.tistory.com/118<br><br>
+     - 5월 정보처리기사 필기 합격<br>
+     - 4월 토이 프로젝트<br>
+     <방 탈출 게임> | 기술스택 : JAVA8<br><br>
+      - 3월 스터디 시작(수업 복습 및 백준 문제 풀이, 정보 교류 목적)<br>
+      - 3월 소프트웨어 융합 풀스택 개발자 양성과정A 시작<br>
+      - 1월 자바 입문<br>
+ </details>
 
-### 2021
-- 10월 개발자 공부 시작(html, css, python)
+<details>
+ <summary> <h3>2021</h3> </summary>
+ - 10월 개발자 공부 시작(html, css, python)
+</details>
 
-</br>
+<br><br>
 
 > ### Education
 - 고등학교 : 강원대학교사범대학부설고등학교 졸업🎓 | 이과
@@ -92,7 +86,10 @@ Git
 
 <br><br>
 
-## ✨ Projects
+<details>
+ <summary><h2> ✨ Toy Projects <h2></summary>
+<br>
+  
 ### 2022년 9월 <런드리고 웹사이트>
 ### 소개
 '우리집 모바일 세탁소, 런드리고' 어플의 웹사이트 버전<br>
@@ -159,7 +156,7 @@ JAVA8</br></br>
 👉[프로젝트 상세 설명](https://turtlemoon.tistory.com/65?category=1091485t) 참고<br><br>
 ### 느낀 점
 - 자유롭게 가장 하고 싶은 주제로 진행한 첫번째 프로젝트로, 제가 만든 프로그램을 누군가 즐겁게 쓰는 기쁨을 처음으로 느꼈습니다.
-
+</details>
 </br></br>
 
 # Bye👋
