@@ -29,6 +29,8 @@ JAVA를 주언어로 개발을 하고 있습니다.<br><br>
 </br></br>
 
 > ### TimeLine
+### 2023년
+- 오웬스 그룹 재직 중<br><br>
 <details>
  <summary> <h3>2022</h3> </summary>
  - 12월 원티드 프리온보딩 [Android]Kotlin 강의<br>
