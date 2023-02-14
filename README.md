@@ -32,6 +32,9 @@ JAVA를 주언어로 개발을 하고 있습니다.<br><br>
 - 오웬스 그룹 재직 중<br><br>
 <details>
  <summary> <h3>2022</h3> </summary>
+ - 12월 토이 프로젝트<br>
+ <중고물품 경매 사이트> | 기술스택 : JAVA8, Spring Boot, JPA, Oracle, HTML5, CSS3, JavaScript<br>
+ 👉[프로젝트 코드](https://github.com/kiya-moon/Springpojo.git) 참고<br><br>
  - 12월 원티드 프리온보딩 [Android]Kotlin 강의<br>
  - 11월 토이 프로젝트<br>
  - 11월 인프런 기출로 대비하는 CS 전공면접<br>
