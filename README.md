@@ -107,7 +107,7 @@ Oracle, Mysql
 Spring Framework, Spring Boot
 
 ### 형상관리
-Git
+Git, SVN
 
 <br><br>
 
