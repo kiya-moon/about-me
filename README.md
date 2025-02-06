@@ -41,7 +41,9 @@
 <br />  
 
 ## `Other Experience`
-#### 📌 항해플러스99 백엔드 코스 ( 2024.06 ~ 2024.08 )
+#### 📌 항해플러스99 백엔드 코스 ( 2024.06 ~ 2024.08 ) <a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
 > 커리큘럼 : TDD 개발, 클린 아키텍처, 대용량 트래픽 처리, 장애 대응
 - 요구사항 분석, DB 설계, 테스트 코드 작성, 서버 구축부터 동시성 이슈와 대용량 트래픽을 고려한 시스템 설계까지 매주 코드를 점진적으로 개선하며 10주간 역량을 키웠습니다.
 - 학습 과정에서 실제 현업에서 동시성 이슈와 부하 관리를 어떻게 처리하는지에 대해 더 깊이 탐구하고 싶다는 열망이 생겼습니다.
