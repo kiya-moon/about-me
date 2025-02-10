@@ -3,6 +3,10 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=keeyeon)](https://solved.ac/keeyeon/)
 
+<a href="https://github.com/kiya-moon"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kiya-moon&show_icons=true&theme=react" alt="KIYA's github stats" /></a>
+<a href="https://github.com/kiya-moon"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiya-moon&layout=compact&theme=react" /></a> 
+
+
 ## `Contact`
 **Github** : https://github.com/kiya-moon<br />
 **Email** : kmoon9328@gmail.com<br />
